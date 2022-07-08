@@ -1,0 +1,51 @@
+[
+
+  {
+    "description": "Newgrounds.com",
+    "userid": "PeterParker",
+    "loginurl": "https://www.newgrounds.com",
+    "accountnum": "4589as095",
+    "password": {
+      "value": "nIeas4sadep",
+      "strengthnum": 68,
+      "strengthtext": "strong",
+      "lastreset": "2022-05-31"
+    }
+  },
+  {
+    "description": "FanshaweOnline.ca",
+    "userid": "mhughes39@fanshaweonline.ca",
+    "loginurl": "https://www.fanshaweonline.ca",
+    "accountnum": "0759313",
+    "password": {
+      "value": "new1pa55w0rd",
+      "strengthnum": 93,
+      "strengthtext": "very strong",
+      "lastreset": "2022-05-31"
+    }
+  },
+  {
+    "description": "Facebook.com",
+    "userid": "Srestha Bharadwaj",
+    "loginurl": "https://www.facebook.com",
+    "accountnum": "jdsa4034a",
+    "password": {
+      "value": "password101!",
+      "strengthnum": 93,
+      "strengthtext": "very strong",
+      "lastreset": "2022-05-31"
+    }
+  },
+  {
+    "description": "Reddit.com",
+    "userid": "SrB",
+    "loginurl": "https://www.reddit.com",
+    "accountnum": "545ada34",
+    "password": {
+      "value": "password200!",
+      "strengthnum": 93,
+      "strengthtext": "very strong",
+      "lastreset": "2022-05-31"
+    }
+  }
+]
